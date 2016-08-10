@@ -1,7 +1,7 @@
 # ASDKResources
 A place that combines different libraries/codes/etc. regarding [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit).
 
-If you find some libraries/links that might be interesting, please submit a pull request to add it to the list. Provide a description for what the link does to explain to others what they expect to find.
+If you find some libraries/links that might be interesting, please submit a pull request to add it to the list. Provide a description for what the link contains to explain to others what they expect to find.
 
 #### Official links
 * [The docs](http://asyncdisplaykit.org/docs/getting-started.html)
