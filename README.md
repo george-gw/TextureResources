@@ -8,6 +8,7 @@ If you find some libraries/links that might be interesting, please submit a pull
 * [Slack channel](https://github.com/facebook/AsyncDisplayKit/issues/1582)
 * [Examples & Sample code](https://github.com/facebook/AsyncDisplayKit/tree/master/examples): This is a great place to look when you have something in mind, you might actually find a working solution to inspire you.
 * [Even more examples](https://github.com/facebook/AsyncDisplayKit/tree/master/examples_extra): If you didn't find what you were looking for, this might nudge you in the right direction.
+* [Official resources](http://asyncdisplaykit.org/docs/resources.html): You will be able to find links to videos, examples and other official resources here.
 
 #### Tutorials
 * [AsyncDisplayKit Tutorial: Node Hierarchies](https://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies): This is an old tutorial but should help you get familiar with the idea behind ASDK.
