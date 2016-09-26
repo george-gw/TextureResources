@@ -18,5 +18,6 @@ If you find some libraries/links that might be interesting, please submit a pull
 #### Playground example/starter
 * [ASLayout playground](https://github.com/the-grid/ASLayout-AsyncDisplayKitPlayground): A ready-made playground example to learn ASLayout, but it can also be used as a starter example, you can simply delete everything in the playground file and start from scratch. 
 
-#### Custom views/nodes
-* [ASDKCustomCollectionViewSwift](https://github.com/maicki/ASDKCustomCollectionViewSwift): You can check this example out to learn more about how to create custom UICollectionViewLayout or how to extend existing libraries to leverage the power of ASDK
+#### Custom views/nodes/components
+* [NMessenger](https://github.com/eBay/NMessenger):  eBay's messaging component written in Swift with ASDK.
+* [ASDKCustomCollectionViewSwift](https://github.com/maicki/ASDKCustomCollectionViewSwift): You can check this example out to learn more about how to create custom UICollectionViewLayout or how to extend existing libraries to leverage the power of ASDK.
